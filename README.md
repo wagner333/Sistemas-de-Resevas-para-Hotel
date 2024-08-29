@@ -31,6 +31,8 @@ Bem-vindo ao projeto "Sistemas de Reservas para Hotel". Este é um sistema web c
   **Reserva Cadastrada**
   ![image](https://github.com/user-attachments/assets/81048b12-8935-49b4-9f45-b8327ac22093)
   **Botão para Excluir Algum dado cadastrado**
+
+  
   ![image](https://github.com/user-attachments/assets/63daa379-0888-42e4-8644-2b61de37abc7)
   ![image](https://github.com/user-attachments/assets/27de9fd0-2887-4a5c-a328-7dcc99f7f5c5)
 
