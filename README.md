@@ -59,11 +59,4 @@ Bem-vindo ao projeto "Sistemas de Reservas para Hotel". Este é um sistema web c
 
 - **Uso:** Orientações sobre como fazer uma reserva, visualizar as reservas realizadas, e usar as opções de edição e exclusão.
 
-- **Contribuindo:** Guia para contribuir com o projeto, incluindo como fazer um fork, criar branches, fazer commits e enviar pull requests.
-
 - **Licença:** O projeto está licenciado sob a [MIT License](LICENSE).
-
-- **Contato:** Informações de contato do autor para suporte e perguntas.
-
-Este projeto foi desenvolvido com a ajuda de um assistente virtual para fornecer suporte em várias partes do processo de desenvolvimento. Se você tiver alguma dúvida ou precisar de assistência adicional, sinta-se à vontade para entrar em contato.
-
