@@ -1,0 +1,17 @@
+{
+    "name": "wagner/fotons",
+    "autoload": {
+        "psr-4": {
+            "Wagner\\Fotons\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "wagner",
+            "email": "wwfome6@gmail.com"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.19"
+    }
+}
