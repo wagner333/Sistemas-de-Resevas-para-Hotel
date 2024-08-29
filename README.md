@@ -49,13 +49,21 @@ Bem-vindo ao projeto "Sistemas de Reservas para Hotel". Este é um sistema web c
 
 ### **Explicação**
 
-- **Título e Descrição:** Fornece uma visão geral do projeto.
-- **Funcionalidades:** Lista o que o sistema pode fazer.
-- **Tecnologias Utilizadas:** Especifica as tecnologias usadas no projeto.
-- **Instalação:** Passos para configurar o ambiente local e executar o projeto.
-- **Uso:** Orientações sobre como usar o sistema.
-- **Contribuindo:** Guia para colaboradores que desejam contribuir.
-- **Licença:** Informações sobre a licença do projeto.
-- **Contato:** Dados de contato do autor para suporte e perguntas.
+- **Título e Descrição:** Este projeto é um sistema de reservas para hotéis que ajuda a gerenciar reservas de forma eficiente. Ele permite aos usuários fazer, visualizar, editar e excluir reservas.
+  
+- **Funcionalidades:** O sistema permite o cadastro de reservas, visualização das reservas existentes, edição e exclusão de reservas, e oferece uma interface amigável usando Bootstrap e jQuery UI.
 
-Você pode ajustar as informações conforme necessário para se adequar ao seu projeto específico. Se precisar de mais ajuda ou ajustes, é só me chamar!
+- **Tecnologias Utilizadas:** O projeto usa HTML, CSS (Bootstrap), JavaScript (jQuery e jQuery UI) para o frontend e PHP com MongoDB para o backend e banco de dados.
+
+- **Instalação:** Inclui etapas para clonar o repositório, configurar o ambiente PHP e MongoDB, e executar o servidor local. Há instruções específicas para criar o banco de dados e configurar a conexão.
+
+- **Uso:** Orientações sobre como fazer uma reserva, visualizar as reservas realizadas, e usar as opções de edição e exclusão.
+
+- **Contribuindo:** Guia para contribuir com o projeto, incluindo como fazer um fork, criar branches, fazer commits e enviar pull requests.
+
+- **Licença:** O projeto está licenciado sob a [MIT License](LICENSE).
+
+- **Contato:** Informações de contato do autor para suporte e perguntas.
+
+Este projeto foi desenvolvido com a ajuda de um assistente virtual para fornecer suporte em várias partes do processo de desenvolvimento. Se você tiver alguma dúvida ou precisar de assistência adicional, sinta-se à vontade para entrar em contato.
+
